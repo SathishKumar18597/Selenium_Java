@@ -1,2 +1,2 @@
 # Selenium_Java
-Selenium based projects
+This repositoruy will contain projects related to selenium with JAVA as the programming language
